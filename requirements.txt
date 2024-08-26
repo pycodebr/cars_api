@@ -1,0 +1,13 @@
+asgiref==3.8.1
+cachetools==5.5.0
+Django==5.1
+django-rql==4.4.1
+djangorestframework==3.15.2
+djangorestframework-simplejwt==5.3.1
+lark-parser==0.11.0
+lib-rql==2.0.2
+PyJWT==2.9.0
+python-dateutil==2.9.0.post0
+six==1.16.0
+sqlparse==0.5.1
+tzdata==2024.1
